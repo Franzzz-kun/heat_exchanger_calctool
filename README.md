@@ -1,5 +1,5 @@
 # Heat Exchanger Calculation Tool
-This macro-enabled excel worksheet is a calculation tool for sizing shell and tube heat exchangers with Visual Basic Application code. 
+This macro-enabled excel worksheet is a calculation tool for sizing shell and tube heat exchangers with AI-assisted Visual Basic Application code. 
 
 ## I. Business Understanding
 The main purpose of this project is to apply Excel and Visual Basic Application coding in calculating the size of shell and tube heat exchanger. This calculation tool computes not only the size of the equipment, but also the characteristics of the fluid flowing through the equipment such as fluid velocity, fouling factor, and % overdesign. Moreover, the use of VBA coding was a challenge in which I used AI to polish the code I had created.
